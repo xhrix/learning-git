@@ -4,5 +4,6 @@ class Example {
     }
     
     static get todo() {
+        return 'todo';
     }
 }
